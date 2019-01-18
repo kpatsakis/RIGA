@@ -8,7 +8,7 @@ This repository contains the code for:
 ## Depedencies
 * IPFS (see [here](https://docs.ipfs.io/introduction/install/))
 * bash
-* * curl
+* curl
 * Python
 * sympy
 * gmpy
